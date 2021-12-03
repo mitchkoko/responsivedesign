@@ -1,16 +1,5 @@
-# responsivetutorial
+# RESPONSIVE DESIGN x FLUTTER
 
-A new Flutter project.
+Check out my tutorial if you need: https://youtu.be/MrPJBAOzKTQ
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![179F6FDC-6794-4B62-AE3C-8F8166AC6757](https://user-images.githubusercontent.com/29016489/144535400-c7e4ce1f-ad79-4048-8d58-fbfa0cdc46ff.JPG)
